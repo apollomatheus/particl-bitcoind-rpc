@@ -1,5 +1,5 @@
 {
-  "name": "zcore-bitcoind-rpc",
+  "name": "bitcoind-rpc",
   "description": "ZCore Client Library to connect to ZCore Core via RPC",
   "version": "0.7.0",
   "author": {
